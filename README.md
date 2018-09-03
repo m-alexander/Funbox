@@ -2,6 +2,8 @@
 
 Решение [тестового задания](https://dl.funbox.ru/qt-js.pdf) Funbox
 
+Страница с результатом https://m-alexander.github.io/Funbox/
+
 ## Установка зависимостей проекта
 
 `npm install`
