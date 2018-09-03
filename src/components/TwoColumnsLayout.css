@@ -1,0 +1,10 @@
+.TwoColumnsLayout {
+  display: flex;
+  width: 800px;
+  margin: 100px auto;
+}
+
+.TwoColumnsLayout-LeftColumn {
+  width: 190px;
+  margin-right: 10px;
+}

@@ -1,0 +1,24 @@
+.WaypointsList {
+    list-style: none;
+    padding: 10px 0;
+    margin: 0;
+}
+
+.WaypointsList-Item {
+  display: flex;
+  padding: 10px;
+  cursor: pointer;
+}
+
+.WaypointsList-Item div {
+  flex: 1;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.WaypointsList-Item button {
+  -webkit-appearance: none;
+  border: none;
+  background: none;
+  cursor: pointer;
+}
